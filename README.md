@@ -1,5 +1,7 @@
 # rastgelekelime
 
+[![NPM](https://img.shields.io/badge/NPM-red?logo=NPM&style=flat-square)](https://www.npmjs.com/package/rastgelekelime)
+
 ## Bir yada daha fazla Türkçe kelime çıktısı alın.
 
 Kurulum:
