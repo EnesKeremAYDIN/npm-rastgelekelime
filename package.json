@@ -1,0 +1,25 @@
+{
+  "name": "rastgelekelime",
+  "version": "2.0.0",
+  "description": "Bir yada daha fazla Türkçe kelime çıktısı alın.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EnesKeremAYDIN/rastgelekelime.git"
+  },
+  "keywords": [
+    "rastgele",
+    "kelime",
+    "türkçe",
+    "rastgelekelime"
+  ],
+  "author": "Enes Kerem \"EKA\" AYDIN",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EnesKeremAYDIN/rastgelekelime/issues"
+  },
+  "homepage": "https://github.com/EnesKeremAYDIN/rastgelekelime#readme"
+}
