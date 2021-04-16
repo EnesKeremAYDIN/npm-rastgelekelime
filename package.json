@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/EnesKeremAYDIN/rastgelekelime.git"
+    "url": "git+https://github.com/EnesKeremAYDIN/npm-rastgelekelime.git"
   },
   "keywords": [
     "rastgele",
@@ -19,7 +19,7 @@
   "author": "Enes Kerem \"EKA\" AYDIN",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/EnesKeremAYDIN/rastgelekelime/issues"
+    "url": "https://github.com/EnesKeremAYDIN/npm-rastgelekelime/issues"
   },
-  "homepage": "https://github.com/EnesKeremAYDIN/rastgelekelime#readme"
+  "homepage": "https://github.com/EnesKeremAYDIN/npm-rastgelekelime#readme"
 }
