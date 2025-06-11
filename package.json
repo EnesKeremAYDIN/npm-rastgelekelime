@@ -1,25 +1,32 @@
 {
   "name": "rastgelekelime",
-  "version": "2.0.2",
+  "version": "10.0.0",
   "description": "Bir yada daha fazla Türkçe kelime çıktısı alın.",
   "main": "index.js",
+  "files": [
+    "index.js",
+    "data/wordList.json"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/EnesKeremAYDIN/npm-rastgelekelime.git"
+    "url": "git+https://github.com/EnesKeremAYDIN/npm-rastgelekelime.git",
+    "bugs": {
+      "url": "https://github.com/EnesKeremAYDIN/npm-rastgelekelime/issues"
+    },
+    "homepage": "https://github.com/EnesKeremAYDIN/npm-rastgelekelime#readme"
   },
   "keywords": [
     "rastgele",
     "kelime",
-    "türkçe",
+    "Türkçe",
     "rastgelekelime"
   ],
-  "author": "Enes Kerem \"EKA\" AYDIN",
+  "author": "Enes Kerem AYDIN",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/EnesKeremAYDIN/npm-rastgelekelime/issues"
-  },
-  "homepage": "https://github.com/EnesKeremAYDIN/npm-rastgelekelime#readme"
+  "engines": {
+    "node": ">=0.10.0"
+  }
 }

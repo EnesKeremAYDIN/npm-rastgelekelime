@@ -1,6 +1,7 @@
 # rastgelekelime
 
 [![NPM](https://img.shields.io/badge/NPM-red?logo=NPM&style=flat-square)](https://www.npmjs.com/package/rastgelekelime)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=GitHub&style=flat-square)](https://github.com/EnesKeremAYDIN/npm-rastgelekelime)
 
 ## Bir yada daha fazla Türkçe kelime çıktısı alın.
 
@@ -34,4 +35,4 @@ Kullanım:
 
     console.log(kelime({exactly:5, wordsPerString:2, formatter: (word, index)=> {return index === 0 ? word.slice(0,1).toUpperCase().concat(word.slice(1)) : word;}}))  // Kesinlikle belirlediğiniz kadar (örn: 2) çıktı almanızı sağlar. Alınan çıktının yanında kaç adet çıktı olmasını (örn: 2) seçmenizi sağlar. Çıktıların ilk harfini büyük yazdırır.
 
-Random-words [NPM](https://www.npmjs.com/package/random-words) - [GitHub](https://github.com/punkave/random-words) üzerinde değişiklikler yapılarak oluşturulmuştur.
+Random-words [NPM](https://www.npmjs.com/package/random-words) üzerinde değişiklikler yapılarak oluşturulmuştur.
